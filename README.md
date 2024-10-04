@@ -241,11 +241,3 @@ Ve Flowgorithm je to tato značka.
 # Boolean
 * Datový typ do kterého můžeme ukládat hodnotu true a false
 
-# Pole
-
-# Cykly
-## While
-## For
-## Do while
-
-
