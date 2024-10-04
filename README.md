@@ -20,11 +20,6 @@
   - [OR](#or)
   - [NOT](#not)
 - [Boolean](#boolean)
-- [Pole](#pole)
-- [Cykly](#cykly)
-  - [While](#while)
-  - [For](#for)
-  - [Do while](#do-while)
 
 # Základní pojmy
 ## Algoritmus – definice
